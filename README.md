@@ -7,7 +7,6 @@ It includes the basic tools and libraries used in data science.
 
 ## ⭐ What I Learned
 
-- What is data science?  
 - Overview of data analysis process  
 - Introduction to important Python libraries:
   - NumPy  
